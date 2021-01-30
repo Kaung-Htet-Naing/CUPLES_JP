@@ -1,0 +1,12 @@
+{
+  "name": "CUPLES_JP",
+  "displayName": "CUPLES_JP",
+  "expo": {
+    "name": "CUPLES_JP",
+    "slug": "CUPLES_JP",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
