@@ -4,6 +4,6 @@ import {LoginScreen,RegisterScreen} from './src/screens';
 
 export default function App() {
   return (
-    <LoginScreen/>
+    <RegisterScreen/>
   );
 }

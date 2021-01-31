@@ -30,10 +30,12 @@ const styles = StyleSheet.create({
   searchSection: {
     flexDirection: 'row',
     alignItems: 'center',
+    backgroundColor:'white',
     borderWidth:2,
     borderRadius:10,
-    height:50,
-    width:300
+    height:60,
+    width:300,
+    margin:10
   },
   searchIcon: {
       padding: 10,
